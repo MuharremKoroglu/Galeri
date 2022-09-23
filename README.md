@@ -20,7 +20,7 @@ This application is a gallery application. Shows developers how to use the Gestu
 <div class="row">
       <div class="column">
 <img width ='82px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/Bitcoin/main/Flag_of_the_United_Kingdom.svg'>
+     ='https://raw.githubusercontent.com/MuharremKoroglu/Quiz_Show/main/Flag_of_Turkey.svg'>
   </div>
 </div>
 
